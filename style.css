@@ -125,7 +125,9 @@ a.something:hover {
     background: #de9343 !important;
     color: #fff !important;
 }
-
+.content{
+	width : 100%;
+}
 #content {
     width: 100%;
     padding: 20px;
